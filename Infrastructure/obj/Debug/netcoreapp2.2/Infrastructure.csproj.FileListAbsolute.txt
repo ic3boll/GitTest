@@ -1,0 +1,12 @@
+C:\Project\Bulgaria\Infrastructure\bin\Debug\netcoreapp2.2\ApplicationCore.dll
+C:\Project\Bulgaria\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojAssemblyReference.cache
+C:\Project\Bulgaria\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Project\Bulgaria\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+C:\Project\Bulgaria\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+C:\Project\Bulgaria\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+C:\Project\Bulgaria\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Project\Bulgaria\Infrastructure\bin\Debug\netcoreapp2.2\ApplicationCore.pdb
+C:\Project\Bulgaria\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
+C:\Project\Bulgaria\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Project\Bulgaria\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Project\Bulgaria\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb

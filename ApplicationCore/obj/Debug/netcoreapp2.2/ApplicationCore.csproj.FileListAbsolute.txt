@@ -1,0 +1,8 @@
+C:\Project\Bulgaria\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.deps.json
+C:\Project\Bulgaria\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.dll
+C:\Project\Bulgaria\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.pdb
+C:\Project\Bulgaria\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Project\Bulgaria\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.AssemblyInfoInputs.cache
+C:\Project\Bulgaria\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.AssemblyInfo.cs
+C:\Project\Bulgaria\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.dll
+C:\Project\Bulgaria\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.pdb
